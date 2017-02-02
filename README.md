@@ -1,4 +1,4 @@
 # C-plus-plus
 
 
-C++ one of the my fav. language
+C++ one of my fav. language
